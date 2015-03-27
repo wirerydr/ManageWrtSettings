@@ -108,7 +108,7 @@ No attempt is made to obscure/filter out any sensitive NVRAM settings such as pa
 INSTALLATION
 ------------
 
-- Obtain the latest ZIP file containing this release from https://github.com/jnikolich/ManageWrtSettings/archive/master.zip .
+- Obtain the latest ZIP file containing this release from https://github.com/wirerydr/ManageWrtSettings/archive/master.zip .
 
 - Extract the ZIP file into your desired location.  We will assume `/opt` in these instructions.  Extracting the ZIP file will create a subdirectory called `ManageWrtSettings-master`.  You may rename this subdirectory if you choose.  Later, you may invoke `managewrt.pl` in one of three ways:
   1. By its full path/filename (*e.g. `/opt/ManageWrtSettings-master/managewrt.pl`*),
